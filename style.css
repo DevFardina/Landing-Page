@@ -1,0 +1,38 @@
+body{
+    margin: 60px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.banner{
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgb(0,0,0,0.8)),url(fire.jpg);
+    height: 700px;
+    padding: 30px;
+    background-size: cover;
+}.navber li{
+   color: whitesmoke;
+   padding: 5px 20px;
+   text-decoration: none;
+   text-transform: uppercase;
+   display: inline-block;
+   float: right;
+   margin: 20px;
+}
+.h-content{
+    text-align: center;
+    text-transform:uppercase;
+    color: whitesmoke;
+    position:absolute;
+    width: 500px;
+    height: 300px;
+    margin: 20% 30%;
+    font-size:25px;
+}.navber{
+    width: 100%;
+}
+.logo h1{
+color: whitesmoke;
+margin: 5px;
+}
+.logo{
+    float: left;
+}
